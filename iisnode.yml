@@ -5,6 +5,7 @@ loggingEnabled: true
 debuggingEnabled: false
 devErrorsEnabled: true
 node_env: production
+debugHeaderEnabled: true
 
 # Other settings with their default values follow.
 # For documentation see https://github.com/tjanczuk/iisnode/blob/master/src/samples/configuration/iisnode.yml
